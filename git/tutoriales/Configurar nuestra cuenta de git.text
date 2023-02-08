@@ -1,0 +1,14 @@
+Cuando queremos configurar nuestro cuenta de Git debemos usar el comando git config
+seguido de los parametros user.mail y user.name respectivamente.
+
+#Definir nuestro nombre para los commits
+
+Para definir el nombre que aparecera en los commits que enviemos usamos la siguiente sintaxis
+
+git config --global user.name "Nombre de Usuario"
+
+#Definir nuestro correo electronico para los commits
+
+Para definir el corre electronico que aparecera en los commits que enviemos usamos la siguiente sintaxis
+
+git config --global use.mail "direccion de email"
