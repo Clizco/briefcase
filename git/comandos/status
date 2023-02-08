@@ -1,0 +1,5 @@
+Sirve para mostrar  el estado del directorio de trabajo y del área del entorno de ensayo. 
+
+Sintaxis de este:
+
+git status

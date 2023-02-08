@@ -1,0 +1,5 @@
+Sirve para guardar todos los cambio hechos en la zona de montaje o área de preparac, junto con una breve descripción del usuario.
+
+Sintaxis de este:
+
+get commit [ Tipo de funcion que vas a utilizar ]

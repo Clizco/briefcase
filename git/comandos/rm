@@ -1,0 +1,5 @@
+Sirve para borrar archivos, carpetas repetidas o huerfanas
+
+Sintaxis de este:
+
+git rm [nombre del archivo o carpeta]

@@ -1,0 +1,5 @@
+Sirve para establecer una configuracion especifica 
+
+Sintaxis de este:
+
+git config [aqui puede ser usado --global o -- local depende del parametro a seguir] 

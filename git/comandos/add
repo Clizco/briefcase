@@ -1,0 +1,5 @@
+Sirve para agregar los archivos que hemos modificado a nuestro commit 
+
+Sintaxis de este:
+
+git add [nombre del o los archivos que deseemos agregar al commit]
